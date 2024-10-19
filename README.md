@@ -1,6 +1,10 @@
 You can view working of code and its output in PDF given <br>
 Project Overview: Gate Pass Management System
 The Gate Pass Management System is a command-line application designed to streamline the process of applying for, approving, and managing gate passes for students and administrators in an educational institution. The project employs object-oriented programming principles in Python and utilizes JSON files for data storage, allowing for easy management and retrieval of student, admin, and gate pass request information.
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/a43b32ce-4984-4d6a-a2ac-5715e062f4b7">
+<br>
+<img width="205" alt="image" src="https://github.com/user-attachments/assets/cba9a022-adc6-4b36-8345-d09843159b2a">
+<br>
 
 Key Features:
 User Management:
